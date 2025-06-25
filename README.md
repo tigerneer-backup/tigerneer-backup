@@ -8,4 +8,3 @@ Hi there! You've reached the backup account **@tigerneer-backup**.
 ---
 
 This account has been retained for archival and recovery purposes only.  
-此账号为备份用途，所有新项目与维护请访问主账号。
